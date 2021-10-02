@@ -1,3 +1,39 @@
+# CoolQ-capture-robots -- a robot could capture keywords in QQ
+
+> Level: middle
+
+> Techniques: based on CoolQ-air robot, including python and C++ version
+> 
+> my gain:
+>
+> * developed my first application plug-in that has pramatic purpose
+> * try to read official doc to know how to build API-driven application
+
+> deficiencies:
+>
+> * Official API based on Python is not completed which could not pack the whole application, so users should install develop environment to use
+>
+> * I am not familiar with C++ during my development(now I am little bit better:) ), so I did not implement the C++ version
+> 
+## how to use (python version):
+
+> 1. install python environment:
+>
+>    https://gitee.com/muxiaofei/coolq_sdk_x/wikis/pages
+>
+> 2. replace the file *CQPlusHandler.py* in directory *酷Q Air\app\cn.muxiaofei.coolq_sdk_x* 
+>
+> 3. start the CoolQ application *小渣抓取机器人*，and reload the application
+>
+> 4. send **$readme** to read instructions
+
+## functions:
+
+> 1. the robot could store your chat records by day using text files可以将每天的聊天记录按天以text文本的格式保存
+> 2. the robot could search contents by setting keywords and alarm you(other user ID, time, content, sender's name)
+> 3. the robot could be set by sending it instruction to add and remove keywords
+
+
 # 酷Q机器人插件——小渣抓取机器人
 
 > 难度：中等

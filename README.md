@@ -33,6 +33,12 @@
 > 2. the robot could search contents by setting keywords and alarm you(other user ID, time, content, sender's name)
 > 3. the robot could be set by sending it instruction to add and remove keywords
 
+![images](https://github.com/DAZHAdazha/CoolQ-capture-robots/blob/master/images/1.jpg)
+
+![images](https://github.com/DAZHAdazha/CoolQ-capture-robots/blob/master/images/2.jpg)
+
+![images](https://github.com/DAZHAdazha/CoolQ-capture-robots/blob/master/images/3.png)
+
 
 # 酷Q机器人插件——小渣抓取机器人
 
